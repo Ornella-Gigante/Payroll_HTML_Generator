@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+  <factura>
+    <numero>23</numero>
+    <fecha>2021_03_01</fecha>
+    <datos_emisor>
+      <nombre>Librería Pérez</nombre>
+      <cif>44555666B</cif>
+      <telefono>777888999</telefono>
+    </datos_emisor>
+    <datos_cliente>
+      <nombre>Biblioteca Txantrea</nombre>
+      <cif>33111222A</cif>
+      <telefono>333999444</telefono>
+    </datos_cliente>
+    <detalle_factura>
+	  <importe>400</importe>
+    </detalle_factura>
+  </factura>
+  <factura>
+    <numero>24</numero>
+    <fecha>2021_03_01</fecha>
+    <datos_emisor>
+      <nombre>Librería Sanchez</nombre>
+      <cif>445224666B</cif>
+      <telefono>663488999</telefono>
+    </datos_emisor>
+    <datos_cliente>
+      <nombre>Biblioteca Lopez</nombre>
+      <cif>32222A</cif>
+      <telefono>1132349444</telefono>
+    </datos_cliente>
+    <detalle_factura>
+	  <importe>200</importe>
+    </detalle_factura>
+  </factura>
+  <factura>
+    <numero>25</numero>
+    <fecha>2021_03_01</fecha>
+    <datos_emisor>
+      <nombre>Librería Juarez</nombre>
+      <cif>44534666B</cif>
+      <telefono>773488999</telefono>
+    </datos_emisor>
+    <datos_cliente>
+      <nombre>Biblioteca Sanchez</nombre>
+      <cif>32222A</cif>
+      <telefono>3332349444</telefono>
+    </datos_cliente>
+    <detalle_factura>
+	  <importe>200</importe>
+    </detalle_factura>
+  </factura>
+</facturas>
