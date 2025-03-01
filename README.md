@@ -57,8 +57,4 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 - [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
 
-Let's explore the world of data transformation with **Payrolls**! 🎉
 
-![Payroll Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Payroll_icon.svg/1200px-Payroll_icon.svg.png)
-
-*Image by OpenClipart-Vectors, licensed under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/deed.en).*
