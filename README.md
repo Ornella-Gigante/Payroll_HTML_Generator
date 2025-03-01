@@ -1,6 +1,6 @@
-# 💰 Payrolls: Transforming XML to HTML with XSLT
+# 💰 Payroll_HTML_Generator: Transforming XML to HTML with XSLT
 
-Welcome to **Payrolls**! This project demonstrates the transformation of an XML file containing payroll information into an HTML file using XSLT. Here's what you need to know:
+This project demonstrates the transformation of an XML file containing payroll information into an HTML file using XSLT. Here's what you need to know:
 
 ## 🚀 Project Overview
 
