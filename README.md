@@ -51,7 +51,7 @@ Feel free to:
 
 ## 📜 License
 
-This project is open-sourced under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the license terms.
+This project is open-sourced under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the license terms
 
 ## 🌐 Connect
 
